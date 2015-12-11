@@ -1,0 +1,817 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_0> a fb:Participant ;
+    fb:agerank 90 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_4> ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Joe Forrest"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 1315 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_1> a fb:Participant ;
+    fb:agerank 89 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Andrea Mendez Brandam"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 439 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_10> a fb:Participant ;
+    fb:agerank 80 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_63> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Isabel Garcia Muñoz"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 134 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_11> a fb:Participant ;
+    fb:agerank 79 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Antonio Díaz Narváez"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 29 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_12> a fb:Participant ;
+    fb:agerank 78 ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Donald Hopkins"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 33 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_13> a fb:Participant ;
+    fb:agerank 77 ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Jane Bishop"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 21 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_14> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_27> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name 430 ;
+    fb:sex "Vicky Guarani-Kaiowá Sinclair"^^xsd:string ;
+    fb:wallcount 76 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_17> a fb:Participant ;
+    fb:agerank 73 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "J.M. Diaz"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 398 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_2> a fb:Participant ;
+    fb:agerank 88 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_52>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_53>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_61>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_75>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_8>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Felipe Gómez-Pallete"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 148 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_20> a fb:Participant ;
+    fb:agerank 70 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_48> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Carlos Ballesteros"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 228 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_22> a fb:Participant ;
+    fb:agerank 68 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_65>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_85>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_88> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Koldo Aldai"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 265 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_25> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_26> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Cristina Coro-Dickson"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 65 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_3> a fb:Participant ;
+    fb:agerank 87 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_26> ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Rosalind Sherlock-Jones"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 202 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_34> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_65>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_88> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Maite Pardo Sol"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 56 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_36> a fb:Participant ;
+    fb:agerank 54 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Vanesa Alves"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 132 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_37> a fb:Participant ;
+    fb:agerank 53 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Angel Marne Cabezas"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 18 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_38> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Marily Troyano"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 52 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_45> a fb:Participant ;
+    fb:agerank 45 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Miguel Ángel"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 13 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_46> a fb:Participant ;
+    fb:agerank 44 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Peter Espansion"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 152 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_49> a fb:Participant ;
+    fb:agerank 41 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Adriana López"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 603 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_5> a fb:Participant ;
+    fb:agerank 85 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_63> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Miguel Angel Martin Crespo"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 238 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_50> a fb:Participant ;
+    fb:agerank 40 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_66> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Kartika Naziree"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 282 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_55> a fb:Participant ;
+    fb:agerank 35 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Carmen García de Leaniz"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 77 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_57> a fb:Participant ;
+    fb:agerank 33 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Flor Sanz Fernandez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 145 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_6> a fb:Participant ;
+    fb:agerank 84 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Beatriz González Segura"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 60 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_62> a fb:Participant ;
+    fb:agerank 28 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Noemi Liza"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 133 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_64> a fb:Participant ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Desiree Martínez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 26 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_67> a fb:Participant ;
+    fb:agerank 23 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Manuel Palacios Ruiz"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 12 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_69> a fb:Participant ;
+    fb:agerank 21 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "D-Ci Desirée Santana"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 99 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_71> a fb:Participant ;
+    fb:agerank 19 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_88> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Maria Pellicer"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 447 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_72> a fb:Participant ;
+    fb:agerank 18 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Jenny Gomez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_77> a fb:Participant ;
+    fb:agerank 13 ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Ghislaine Vaughan"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 9 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_78> a fb:Participant ;
+    fb:agerank 12 ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Gaulbert Pereira"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 15 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_89> a fb:Participant ;
+    fb:agerank 1 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Ana Martinez Martinez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_9> a fb:Participant ;
+    fb:agerank 81 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Anne Den Tandt"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 9 .
+
+fb:friend a owl:SymmetricProperty .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_18> a fb:Participant ;
+    fb:agerank 72 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_70> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Nigel Hodgson"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_19> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_29> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Stella Strega"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 71 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_21> a fb:Participant ;
+    fb:agerank 69 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_26> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Reme Castrejon"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 18 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_24> a fb:Participant ;
+    fb:agerank 66 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_42>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_51>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_87> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Jorge Benjumea Gomez"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 368 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_30> a fb:Participant ;
+    fb:agerank 60 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47> ;
+    fb:locale "fr_FR"^^xsd:string ;
+    fb:name "Corine Spallier"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 116 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_32> a fb:Participant ;
+    fb:agerank 58 ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "John Brady"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 9 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_33> a fb:Participant ;
+    fb:agerank 57 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_54>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_65> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Pescador Fernández Guillermo"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 133 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_4> a fb:Participant ;
+    fb:agerank 86 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_18>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_70> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Dan Forrest"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 473 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_58> a fb:Participant ;
+    fb:agerank 32 ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Mamen Illán"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 42 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_66> a fb:Participant ;
+    fb:agerank 24 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Laura Bobito Rodriguez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 21 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_7> a fb:Participant ;
+    fb:agerank 83 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_8> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Kathleen Alexander"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 79 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_73> a fb:Participant ;
+    fb:agerank 17 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Samuel Grandjean"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 41 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_74> a fb:Participant ;
+    fb:agerank 16 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "George Wallén"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 59 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_85> a fb:Participant ;
+    fb:agerank 5 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Gaizka Zubizarreta"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 15 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_15> a fb:Participant ;
+    fb:agerank 75 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_52>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_53>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_61>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_75>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_79>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_82>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_83>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Adriana Perez Pesce"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 421 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_16> a fb:Participant ;
+    fb:agerank 74 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_52>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_61>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_75>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_79>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_82>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_83> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Martin Gonzalez Senosiain"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 96 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_29> a fb:Participant ;
+    fb:agerank 61 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Miguel Yasuyuki Hirota"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 226 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_39> a fb:Participant ;
+    fb:agerank 51 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Nuria Del Río Paracolls"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 193 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_40> a fb:Participant ;
+    fb:agerank 50 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Ta Ti"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 211 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_42> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_51>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Laura Resino Perez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 48 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_54> a fb:Participant ;
+    fb:agerank 36 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_58>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_65> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Carlos de Prada"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_79> a fb:Participant ;
+    fb:agerank 11 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Patricia Pérez"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 54 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_8> a fb:Participant ;
+    fb:agerank 82 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Manuel Alvarez Sanchez"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 21 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_80> a fb:Participant ;
+    fb:agerank 10 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Jorge Jimenez"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 14 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_87> a fb:Participant ;
+    fb:agerank 3 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Rosa Dama Del Sol"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 45 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_26> a fb:Participant ;
+    fb:agerank 64 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_74> ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Simon Betterton"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 645 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_27> a fb:Participant ;
+    fb:agerank 63 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_70> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Peter Forrest"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 67 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_28> a fb:Participant ;
+    fb:agerank 62 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_70> ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Mel Forrest"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 215 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_31> a fb:Participant ;
+    fb:agerank 59 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Anna Carnes Verge"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 41 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_35> a fb:Participant ;
+    fb:agerank 55 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_42>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_51>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Susana Bilbao"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 150 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_41> a fb:Participant ;
+    fb:agerank 49 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Remi Gómez"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 131 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_44> a fb:Participant ;
+    fb:agerank 46 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_51>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_87> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Ana Belén Puerta González"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 167 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_52> a fb:Participant ;
+    fb:agerank 38 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Oscar Garnica"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 14 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_53> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Salvador Camarasaltas"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 37 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_88> a fb:Participant ;
+    fb:agerank 2 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Athanor Redes"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 76 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_23> a fb:Participant ;
+    fb:agerank 67 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_61>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_75> ;
+    fb:locale "de_DE"^^xsd:string ;
+    fb:name "Magda Lorenz"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 122 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_43> a fb:Participant ;
+    fb:agerank 47 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_53>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_82>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_83>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Fernando Guerrero Mateos"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 13 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_48> a fb:Participant ;
+    fb:agerank 42 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_63>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_65>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_80> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Juan Cruz González"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 278 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_51> a fb:Participant ;
+    fb:agerank 39 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Nuria Chamón"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 72 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_61> a fb:Participant ;
+    fb:agerank 29 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68> ;
+    fb:locale "de_DE"^^xsd:string ;
+    fb:name "Doris Trinkl"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 27 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_63> a fb:Participant ;
+    fb:agerank 27 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Iulia Zaydulina"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 75 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_70> a fb:Participant ;
+    fb:agerank 20 ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Tracy Cowey"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_75> a fb:Participant ;
+    fb:agerank 15 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Gerardo Horacio Roldán"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 110 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_65> a fb:Participant ;
+    fb:agerank 25 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Equipo Del Diario Despertador"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 25 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_82> a fb:Participant ;
+    fb:agerank 8 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Felicidad Carpintero Santamarta"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 7 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_83> a fb:Participant ;
+    fb:agerank 7 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Pazo De Vilane"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 8 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59> a fb:Participant ;
+    fb:agerank 31 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Azucena Chaparro Moreno"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 25 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81> a fb:Participant ;
+    fb:agerank 9 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_82>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_83> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Piedad Varela-Portas"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 11 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_56> a fb:Participant ;
+    fb:agerank 34 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_59>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Federico Madueño Molina"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 22 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_68> a fb:Participant ;
+    fb:agerank 22 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Arantxa Villa Ema"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 77 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> a fb:Participant ;
+    fb:agerank 6 ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Rita Cifuentes"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86> a fb:Participant ;
+    fb:agerank 4 ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "De La Morena Retratos Carlos"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_47> a fb:Participant ;
+    fb:agerank 43 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_54>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_63>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_80> ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:name "Daniel Jiménez Lorente"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 513 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76> a fb:Participant ;
+    fb:agerank 14 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_81>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_82>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_83>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84> ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:name "Maria Torné"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 83 .
+
+<http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_60> a fb:Participant ;
+    fb:agerank 30 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_73>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_76>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_84>,
+        <http://purl.org/socialparticipation/fb/Participant#GrahamForrest28012013_gml-user_86> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Begoña Alvarez Arrontes"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 3 .
+

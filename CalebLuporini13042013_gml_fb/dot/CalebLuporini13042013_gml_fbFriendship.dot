@@ -1,0 +1,3 @@
+digraph  {
+	graph [label="Facebook friendship network from CalebLuporini13042013_gml . Ego: True"];
+}

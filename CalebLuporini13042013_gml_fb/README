@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of CalebLuporini13042013_gml collected around 2013-04-13.
+1050 individuals with metadata ['locale', 'sex', 'name', 'wallcount', 'agerank']
+and 24653 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/CalebLuporini13042013_gml_fb/rdf/CalebLuporini13042013_gml_fbFriendship.owl
+(anonymized: FALSE, but no id).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/CalebLuporini13042013_gml_fb/rdf/CalebLuporini13042013_gml_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/CalebLuporini13042013_gml_fb/base/CalebLuporini13042013.gml
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgoGML/tree/master/CalebLuporini13042013_gml_fb
+

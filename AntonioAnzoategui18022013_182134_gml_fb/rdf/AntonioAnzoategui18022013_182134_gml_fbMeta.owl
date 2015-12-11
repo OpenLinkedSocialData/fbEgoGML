@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#AntonioAnzoategui18022013_182134_gml_fb">
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">antonio.anzoateguifabbri</fb:sid>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot AntonioAnzoategui18022013_182134_gml_fb</rdfs:label>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AntonioAnzoategui18022013_182134_gml</po:donatedBy>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/AntonioAnzoategui18022013_182134_gml_fb/rdf/AntonioAnzoategui18022013_182134_gml_fbFriendship.owl</po:friendshipXMLFile>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</fb:nFriends>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</fb:nFriendships>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/AntonioAnzoategui18022013_182134_gml_fb/rdf/AntonioAnzoategui18022013_182134_gml_fbMeta.ttl</po:discoveryTTLFile>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wallcount</fb:friendAttribute>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgoGML/tree/master/AntonioAnzoategui18022013_182134_gml_fb</po:availableAt>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/AntonioAnzoategui18022013_182134_gml_fb/base/AntonioAnzoategui18022013_182134.gml</fb:originalFriendshipFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-11T08:02:58.091364</po:triplifiedIn>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/AntonioAnzoategui18022013_182134_gml_fb/rdf/AntonioAnzoategui18022013_182134_gml_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from AntonioAnzoategui18022013_182134_gml . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003608428288</fb:uid>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/AntonioAnzoategui18022013_182134_gml_fb/rdf/AntonioAnzoategui18022013_182134_gml_fbMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2013-02-18T18:21:34</po:createdAt>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

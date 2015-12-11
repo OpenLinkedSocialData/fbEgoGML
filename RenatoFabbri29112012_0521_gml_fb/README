@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of RenatoFabbri29112012_0521_gml collected around 2012-11-29T05:21:00.
+823 individuals with metadata ['locale', 'sex', 'name', 'wallcount', 'agerank']
+and 19083 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri29112012_0521_gml_fb/rdf/RenatoFabbri29112012_0521_gml_fbFriendship.owl
+(anonymized: FALSE, but no id).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri29112012_0521_gml_fb/rdf/RenatoFabbri29112012_0521_gml_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri29112012_0521_gml_fb/base/RenatoFabbri29112012_0521.gml
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgoGML/tree/master/RenatoFabbri29112012_0521_gml_fb
+

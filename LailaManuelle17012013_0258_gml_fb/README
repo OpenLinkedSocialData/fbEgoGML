@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of LailaManuelle17012013_0258_gml collected around 2013-01-17T02:58:00.
+969 individuals with metadata ['locale', 'sex', 'name', 'wallcount', 'agerank']
+and 48572 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/LailaManuelle17012013_0258_gml_fb/rdf/LailaManuelle17012013_0258_gml_fbFriendship.owl
+(anonymized: FALSE, but no id).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/LailaManuelle17012013_0258_gml_fb/rdf/LailaManuelle17012013_0258_gml_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/LailaManuelle17012013_0258_gml_fb/base/LailaManuelle17012013_0258.gml
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgoGML/tree/master/LailaManuelle17012013_0258_gml_fb
+

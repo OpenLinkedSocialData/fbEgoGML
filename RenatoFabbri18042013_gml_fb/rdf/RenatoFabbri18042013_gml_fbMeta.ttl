@@ -1,0 +1,38 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#RenatoFabbri18042013_gml_fb> a po:Snapshot ;
+    rdfs:label "Snapshot RenatoFabbri18042013_gml_fb"^^xsd:string ;
+    fb:ego true ;
+    fb:fAnon false ;
+    fb:friendAttribute "agerank"^^xsd:string,
+        "locale"^^xsd:string,
+        "name"^^xsd:string,
+        "sex"^^xsd:string,
+        "wallcount"^^xsd:string ;
+    fb:friendship true ;
+    fb:interaction false ;
+    fb:nFriends 1124 ;
+    fb:nFriendships 24072 ;
+    fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri18042013_gml_fb/base/RenatoFabbri18042013.gml"^^xsd:string ;
+    fb:sid "renato.fabbri"^^xsd:string ;
+    fb:uid "781909429"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbEgoGML/tree/master/RenatoFabbri18042013_gml_fb"^^xsd:string ;
+    po:createdAt "2013-04-18"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri18042013_gml_fb/rdf/RenatoFabbri18042013_gml_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri18042013_gml_fb/rdf/RenatoFabbri18042013_gml_fbMeta.ttl"^^xsd:string ;
+    po:donatedBy "RenatoFabbri18042013_gml"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri18042013_gml_fb/rdf/RenatoFabbri18042013_gml_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgoGML/master/RenatoFabbri18042013_gml_fb/rdf/RenatoFabbri18042013_gml_fbFriendship.owl"^^xsd:string ;
+    po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
+    po:triplifiedIn "2015-12-11T08:06:42.835495"^^xsd:datetime ;
+    rdfs:comment "facebook network from RenatoFabbri18042013_gml . Ego: True. Friendship: True. Interaction: False."^^xsd:string .
+
+<http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
+
